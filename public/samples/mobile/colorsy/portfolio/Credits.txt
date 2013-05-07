@@ -1,0 +1,6 @@
+Credits:
+--------
+http://pixabay.com/
+http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+http://isotope.metafizzy.co/
+http://subtlepatterns.com
